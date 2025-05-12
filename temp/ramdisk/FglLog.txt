@@ -1,29 +1,26 @@
-*GUI(1)*UserPrjDat:C:\ttg_cuisine\version1\hmi\Bin\fshmi.bin
-*GUI(1)*PicResDir:C:\ttg_cuisine\version1\hmi\Bin\Images\
-*GUI(1)*TtfResDir:C:\ttg_cuisine\version1\hmi\Bin\Fonts\
-*GUI(1)*AudResDir:C:\ttg_cuisine\version1\hmi\Bin\Audio\
-*GUI(1)*PlcDrvDir:C:\ttg_cuisine\version1\hmi\Bin\Device\
-*GUI(1)*MacroDir:C:\ttg_cuisine\version1\hmi\Bin\Macro\
-*GUI(1)*RcpDir:C:\ttg_cuisine\version1\hmi\temp\disk\hmi\rcp\
+*GUI(1)*UserPrjDat:D:\ts2i\Tesca\TTG\Cuisine\Github\cuisineHMI\Bin\fshmi.bin
+*GUI(1)*PicResDir:D:\ts2i\Tesca\TTG\Cuisine\Github\cuisineHMI\Bin\Images\
+*GUI(1)*TtfResDir:D:\ts2i\Tesca\TTG\Cuisine\Github\cuisineHMI\Bin\Fonts\
+*GUI(1)*AudResDir:D:\ts2i\Tesca\TTG\Cuisine\Github\cuisineHMI\Bin\Audio\
+*GUI(1)*PlcDrvDir:D:\ts2i\Tesca\TTG\Cuisine\Github\cuisineHMI\Bin\Device\
+*GUI(1)*MacroDir:D:\ts2i\Tesca\TTG\Cuisine\Github\cuisineHMI\Bin\Macro\
+*GUI(1)*RcpDir:D:\ts2i\Tesca\TTG\Cuisine\Github\cuisineHMI\temp\disk\hmi\rcp\
 *GUI(1)*SysFrmBuf:<XPixs>1024</XPixs><YPixs>600</YPixs><ColorBits>16</ColorBits>
-*GUI(1)*HmiDir:C:\ttg_cuisine\version1\hmi\temp\disk\hmi\
-*GUI(1)*SdDir:C:\ttg_cuisine\version1\hmi\temp\disk\sd\
-*GUI(1)*Usb1Dir:C:\ttg_cuisine\version1\hmi\temp\disk\usb1\
-*GUI(1)*Usb2Dir:C:\Program Files (x86)\Veichi\VI20Studio 3.x\Bin\
-*GUI(1)*MemFs:C:\ttg_cuisine\version1\hmi\temp\ramdisk\
+*GUI(1)*HmiDir:D:\ts2i\Tesca\TTG\Cuisine\Github\cuisineHMI\temp\disk\hmi\
+*GUI(1)*SdDir:D:\ts2i\Tesca\TTG\Cuisine\Github\cuisineHMI\temp\disk\sd\
+*GUI(1)*Usb1Dir:D:\ts2i\Tesca\TTG\Cuisine\Github\cuisineHMI\temp\disk\usb1\
+*GUI(1)*Usb2Dir:C:\Program Files (x86)\VEICHI\VI20Studio 3.x\Bin\
+*GUI(1)*MemFs:D:\ts2i\Tesca\TTG\Cuisine\Github\cuisineHMI\temp\ramdisk\
 *GUI(1)*RunMode:SimPlc
 *GUI(1)*Debug:N
-*GUI(1)*SysFontDir:C:\Program Files (x86)\Veichi\VI20Studio 3.x\Lib\Fonts\
+*GUI(1)*SysFontDir:C:\Program Files (x86)\VEICHI\VI20Studio 3.x\Lib\Fonts\
 *GUI(1)*MapPort:1234
 *GUI(1)*SimRamSize:128
 *GUI(1)*SimExitTime:14400
-*GUI(1)*RcpInitDir:C:\ttg_cuisine\version1\hmi\Bin\Files\\
-*GUI(1)*ProjectCheckSum(0x9d0ea2f, 0x9d0e6aa)
+*GUI(1)*RcpInitDir:D:\ts2i\Tesca\TTG\Cuisine\Github\cuisineHMI\Bin\Files\\
 *GUI(1)*ClientMonit::Pid(0)
 *GUI(1)*LightSave 0 BackLight 10 LightPercent 3
 *GUI(1)*DoLoadTtfFile::Pid(0)
-*GUI(1)*loadTtfFile(C:\Program Files (x86)\Veichi\VI20Studio 3.x\Lib\Fonts\puhui-regular.ttf) OK
-*GUI(1)*loadTtfFile(C:\ttg_cuisine\version1\hmi\Bin\Fonts\ARIAL.TTF) OK
+*GUI(1)*loadTtfFile(C:\Program Files (x86)\VEICHI\VI20Studio 3.x\Lib\Fonts\puhui-regular.ttf) OK
+*GUI(1)*loadTtfFile(D:\ts2i\Tesca\TTG\Cuisine\Github\cuisineHMI\Bin\Fonts\ARIAL.TTF) OK
 *GUI(1)*Touch::Pid(0),interval=0
-*GUI(1)*[1]HmiWinLoadUserData[55000]
-
